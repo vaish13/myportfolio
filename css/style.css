@@ -1,0 +1,35 @@
+
+.img-user{
+    /* width: 200px; */
+    /* border-radius: 50%; */
+   
+}
+.about-me{
+    font-size: 20px;
+    
+}
+.ico-social-container{
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px #000;
+    padding:5px;
+    transition: 0.3s;
+    
+   
+}
+.ico-social-container:hover{
+    box-shadow: 0px 0px 30px #000;
+    transition: 0.3s;
+
+}
+.ico-social{
+    height: 35px;
+    width: 35px;
+}
+.project-container{
+    box-shadow: 5px 5px 8px rgb(68, 64, 64);
+    padding-top: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 30px;
+}
